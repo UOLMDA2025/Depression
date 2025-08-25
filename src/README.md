@@ -1,6 +1,6 @@
-# DepressNet: Multimodal Depression Detection Using DAIC-WOZ
+# Depression diagnosis from patient interviews using multimodal machine learning
 
-This repository contains the code for **DepressNet**, a multimodal deep learning framework for automatic depression detection based on audio, text, and tabular features extracted from clinical interviews. The system is evaluated using the publicly available **DAIC-WOZ** dataset.
+This repository contains the code for **Depression diagnosis**, a multimodal deep learning framework for automatic depression detection based on audio, text, and tabular features extracted from clinical interviews. The system is evaluated using the publicly available **DAIC-WOZ** dataset.
 
 > This project was conducted as part of the AI4Health initiative at Carl von Ossietzky University Oldenburg.
 
