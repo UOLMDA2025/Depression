@@ -158,7 +158,3 @@ This work was conducted by the AI4Health Division, Carl von Ossietzky University
 - Jana Weber
 - Marcel Weber
 - Juan Miguel Lopez Alcaraz
-- Nils Strodthoff
-
-For more details, please refer to the preprint:  
-[DepressNet: Depression diagnosis via deep multimodal feature fusion from patient interviews](https://github.com/AI4HealthUOL/DepressNet)
