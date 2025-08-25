@@ -1,0 +1,17 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Deep learning
+torch
+transformers
+
+# Tabular model
+xgboost
+
+# Optional / utilities
+scipy
